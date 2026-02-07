@@ -1,0 +1,133 @@
+Portfolio.html
+<!DOCTYPE html>
+<html>
+    <head>
+           <title>portfolio</title>
+        <link rel="icon" type="image/x-icon" href="C:\Users\Gurudev\anime\html,css\resume1_files\li.png">
+        <pre><h1 style="color:white ;"><img src="li.png" width="40px" height="40pxpx" > Gurudev                                                        <a href="portfolio.html" style="color: blue;">Home</a>  <a href="Learn More About Me.html" style="color: blue;">AboutMe</a> <a href="portfolio2.html" style="color: blue;">Resume</a>  <a href="portfolio3.html" style="color: blue;">Contact</a>                                                                       </h1></head>
+     
+    <body>
+        <link rel="stylesheet" href="port.css">
+        <link rel="stylesheet" href="s.css">
+<br><pre style="font-family: Arial, Helvetica, sans-serif;font-size: larger; color: white ;"><b style="font-size: x-large; " >                                                                                                  Hi,I'm Gurudev</b></pre>
+                <br>                                     
+                <pre style="font-family: Arial, Helvetica, sans-serif;font-size: larger; color: white ;">                                                                                                                A Front-End developer,learning full</pre>                                   
+                <pre style="font-family: Arial, Helvetica, sans-serif;font-size: larger; color: white ;">                                                                                                                stack.</pre> <br>                                              
+                                                                                                                                    
+                <pre style="font-family: Arial, Helvetica, sans-serif;font-size: larger; color: white ;">                                                                                                                       <a  href="Learn More About Me.html" style="color: blue;">Learn More AboutMe</a>                                          </l1>
+                <pre style="font-family: Arial, Helvetica, sans-serif;font-size: larger; color: white ;">                                                                                       <img src="C:\Users\Gurudev\Downloads\IMG-20260207-WA0005.jpg" width="300px" height="400px">
+        </pre>
+    
+    </body>
+</html>
+2.About me.html
+<!DOCTYPE html>
+<html>
+    <head>
+        
+           <title>About Me</title>
+        <link rel="icon" type="image/x-icon" href="C:\Users\Gurudev\anime\html,css\resume1_files\li.png">
+        <h1 style="color:white ;"><img src="li.png" width="40px" height="40px" > Gurudev</h1></head>
+    <body>
+        
+        <link rel="stylesheet" href="port.css">
+         <link rel="stylesheet" href="s.css">
+        <pre  style="font-family: Arial, Helvetica, sans-serif; font-size: x-large; text-align: center; color: white;"><br><br><br>                                                                                                            ABOUT ME</pre><br><br><br><br><br>
+        <br><br><br><pre  style="font-family: Arial, Helvetica, sans-serif;font-size: large ; color: whitesmoke; text-align: center;">                                                                                                                                I am a passionate Front-End developer
+                                                                                                                                with experience in building clean and 
+                                                                                                                            user-friendly websites.I'm currently 
+                                                                                                                            expanding my skills into Full-Stack 
+                                                                                                                            Development.<br><br>                                                                                                                             
+
+             </pre><br><br><br>
+          <pre style="font-family: Arial, Helvetica, sans-serif;font-size: large; color: whitesmoke;text-align: center;"><br><br><br><br>                                                                                                                                            <a href="portfolio123.html"style="color: blue;">To Know More</a>
+<a href="portfolio2.html"style="color: blue;">View My Resume</a></pre></pre>
+                                                                                                                                           
+</body>
+</html>
+3.Resume.html
+<!DOCTYPE html>
+<html>
+    <head>
+        
+           <title>Education and Skills</title>
+        <link rel="icon" type="image/x-icon" href="C:\Users\Gurudev\anime\html,css\resume1_files\li.png">
+        <h1 style="color: white;"><img src="li.png" width="40px" height="40px"> Gurudev </h1></head>
+        <body>
+            <link rel="stylesheet" href="port.css"><BR><br><br>
+             <link rel="stylesheet" href="s.css">
+            <pre style="font-family: Arial, Helvetica, sans-serif; font-size: x-large;color: white; text-align: center;"style="color: blue;">                                                                                                    My Resume</pre><br><br><br>
+            <pre style="font-family: Arial, Helvetica, sans-serif; font-size: larger; color: whitesmoke; text-align: center;"style="color: blue;">                                                                                                       <b>Education</b>
+
+                                                                                                            School:ST.Patrick's Academy Matric
+                                                                                                            Higher Secondary School(LKG to 12th)
+                                                                                                            College:Coimbatore Institute of
+                                                                                                            Engineering and Technology(2023-
+                                                                                                                        2027)
+                                                                                                            Degree:BE-Computer Science and
+                                                                                                                    Engineering<br><br>
+                                                                                                                <b>Skills</b><br>
+                                                                                                                    Front-End Development(Html,Css)
+                                                                                                                Intermediate in C and python 
+                                                                                                                Basics in C++
+        </pre>
+        </body>
+</html>
+4.To Know more.html
+<!DOCTYPE html>
+<html>
+     <head>
+        <h1 style="color: white;"><img src="li.png" width="40px" height="40px"> Gurudev</h1></head>
+    <body>
+        <link rel="stylesheet" href="port.css">  
+       <pre style="font-family: Arial, Helvetica, sans-serif; font-size:x-large;text-align: center;color:white">                                                                                                                          Who Am I?</pre><br><br>
+        <pre style="font-family: Arial, Helvetica, sans-serif; font-size:larger;text-align: center;color: whitesmoke;"><b>                                             Who Am I?</b><br>
+                                                                                      I am Gurudev,a Front-End Developer 
+                                                                                  passionate about writing clean and
+                                                                          efficient code.I enjoy building
+                                                                                        interactive websites and learning new
+                                                                                      technologies.Currently,I'm expanding
+                                                                        my knowledge in Full-Stack
+                                                    Development. 
+        <pre style="font-family: Arial, Helvetica, sans-serif; font-size: larger;text-align: center;color: whitesmoke;"><b>         Skills</b><br>
+                    Basics in html
+                     Basics in Css
+                                  Intermediate in python
+                        Basics in c,c++
+                                                                                    
+        <b style="font-family: Arial, Helvetica, sans-serif; font-size: x-large; text-align: center;color: white;">                                                                                                                  EDUCATION</b>
+                                    Bachelor's in computer 
+                                      Science and Engineering
+                                                              Coimbatore Institute of Engineering and
+                                                                Technology|2024-present.                        
+                                   
+                                                                                                                                                    </pre></pre>
+    
+    
+    </body>
+</html> 
+5.contact me
+<!DOCTYPE html>
+<html>
+    <head>
+        
+           <title>Contact</title>
+        <link rel="icon" type="image/x-icon" href="C:\Users\Gurudev\anime\html,css\resume1_files\li.png">
+        <h1 style="color:white ;"><img src="li.png" width="40px" height="40pxpx" > Gurudev</h1></head>
+    <body>
+         <link rel="stylesheet" href="s.css">
+         <link rel="stylesheet" href="port.css">
+        <pre style="font-family: Arial, Helvetica, sans-serif; font-size: x-large; color: white; text-align: center;">
+                                                                                                                 Contact Me</pre><br><br><br><br>
+        <pre style="font-family: Arial, Helvetica, sans-serif; font-size: large; color: white; text-align: center;">                                                            
+                                                                                                                                                 <input value="" name="Gurudev" placeholder="Your Name" required>
+            <br>                                                                                                                                    
+                                                                                                                                                <input value="" name="Gurudev" placeholder="Your Email" required>
+            <br>                                                                                                                                    
+                                                                                                                                                 <input value="" name="Gurudev" placeholder="Message" required>
+
+                                                                                                                                                 <a href="Emailto:sgurudev0307@gmail.com">Send Message</a>
+        </pre>
+    </body>   
+</html>
+
